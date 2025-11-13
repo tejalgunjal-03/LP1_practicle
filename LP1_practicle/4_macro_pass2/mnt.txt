@@ -1,0 +1,2 @@
+INCR	1	1	1	1
+MULTIPLY	1	1	5	2

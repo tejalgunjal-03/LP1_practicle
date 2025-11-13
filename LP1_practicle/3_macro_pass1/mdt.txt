@@ -1,0 +1,8 @@
+MOVER	(P,2)	(P,1)
+ADD	(P,2)	='1'
+MOVEM	(P,2)	(P,1)
+MEND
+MOVER	(P,2)	(P,1)
+MUL	(P,2)	='2'
+MOVEM	(P,2)	(P,1)
+MEND

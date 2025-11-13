@@ -1,0 +1,13 @@
++ MOVER AREG &A
++ ADD AREG ='1'
++ MOVEM AREG &A
+MOVER &B, &A
+ADD &B, ='1'
+MOVEM &B, &A
+
++ MOVER BREG &X
++ MUL BREG ='2'
++ MOVEM BREG &X
+MOVER &Y, &X
+MUL &Y, ='2'
+MOVEM &Y, &X
